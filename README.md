@@ -10,8 +10,11 @@ Excited to share my latest data science project analyzing Amazon product reviews
 
 𝐌𝐞𝐭𝐡𝐨𝐝𝐨𝐥𝐨𝐠𝐲: 🖋
 ▪ Data Engineering:- 1.Entagled the category column. 2.Cleaned the text of product name, reviews and description.
+
 ▪ Data Analytics:- 1. Descriptive statistics on reviews, sales across the categories. 2. Analyzed the number of discounts and average percent per category.
+
 ▪ Data Science:- 1.Trained the machine learning model to classify sentiments of review
+
 ▪ Preprocessing steps included adding new columns for review length and word count, as well as statistical analysis to identify outliers and check for data integrity.
 ▪ Catcodes were used to convert categorical data into numerical data.
 ▪ Natural Language Toolkit (NLTK) was used for tokenization, tagging, and chunking to extract key features and entities from the reviews.
